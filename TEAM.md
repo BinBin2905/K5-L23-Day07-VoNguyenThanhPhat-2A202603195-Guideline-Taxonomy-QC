@@ -20,11 +20,16 @@ Danh sách trên phải khớp dòng tiêu đề của `README.md` (đã đổi 
 | MSHV | Phụ trách thêm                                                                            |
 | ---- | ----------------------------------------------------------------------------------------- |
 |      | (ví dụ: chạy split_assign, viết phần ca khó của guideline v1.0, người kiểm QC chính, ...) |
+- Mã thành viên (ba chữ số):
+- Người điều phối:
+- Người review bản cuối:
+- Commit chốt bài (điền ở kênh nộp sau khi commit):
 
 ## Kết quả tóm tắt (điền cuối bài)
 
-- Số thành viên / số lần gán mỗi ảnh (K): …
-- IAA trước calibration: IoU trung bình … , đồng thuận lớp … % (mẫu số: …)
+- Lượt gán hoàn tất / được giao:
+- IAA trước calibration (kèm mẫu số):
 - Số ảnh phải calibration: … / 40
-- Tỉ lệ lỗi sau calibration: … % theo ảnh (…/…), … % theo đối tượng (…/…)
-- **Quyết định:** Release / Hold / Rework — lý do một dòng: …
+- Vòng QC và số ảnh đã duyệt / cả lô:
+- Tỉ lệ lỗi: … % theo ảnh (…/…), … % theo đối tượng (…/…)
+- **Quyết định** (Release / Hold / Rework) và lý do một dòng:
